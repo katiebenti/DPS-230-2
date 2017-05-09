@@ -2,7 +2,7 @@
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
 ## Live links (replace with your own)
-- Leaflet Map https://katiebenti.github.io/DPS-230-2/
+- Leaflet Map https://katiebenti.github.io/DPS-230-IPV/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1PhhALA57EJLECYtp3xd9MsnmRrF2uSP9dys-59Kx90g/edit#gid=0
 
 ## Create your own
